@@ -1,0 +1,42 @@
+.navbar-expand-lg{
+    background-color: #fd6900;
+    color:white;
+  }
+.logo9{
+  margin-left: 25px;
+}
+  ul li a {
+    text-decoration: none;
+    color : white;
+  }
+  .navbar-toggler-icon{
+    color: white;
+    border-color: white;
+    background-color: white;
+  }
+.navbar-brand{
+    color: white;
+}
+ul li a :hover{
+    color: white;
+}
+.btn-black{
+  color: white;
+}
+.nav-item{
+  margin-left: 20px;
+  font-size: 17px;
+}
+.nav-item1{
+  margin-right: 50px;
+  font-size: 17px;
+}
+.nav-item2{
+  margin-right: 40px;
+  font-size: 17px;
+}
+.Discovery{
+  margin-left: 60px;
+  color: white;
+  font-size: 17px;
+}
